@@ -11,7 +11,7 @@
 <br><br>
 <h4>steps to use are basic : Just run the main.py file and the application starts. From then ,it will pop up after each intervals with a purpose to embellish your Language.
 
-<h4>This application is in inchoate state. Any response will be appraciated.</h4>
+<h4>This application is in inchoate state. Any response will be appreciated.</h4>
 <h4>Ta!</h4>
 
 </body>
