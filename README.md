@@ -6,7 +6,7 @@
 <h4>Demo:</h4>
 <h4><b>1.This is snippet of the pop up window showing random word and meaning.</b></h4>
 <img src="https://user-images.githubusercontent.com/25627737/39613741-432c1704-4f87-11e8-8e8e-6ec99db54ae3.JPG" alt="demo image" width=400>
-<h4><b>1.This is the snippet of our screen and pop up window.</b></h4>
+<h4><b>2.This is the snippet of the screen and pop up window.</b></h4>
 <img src="https://user-images.githubusercontent.com/25627737/39613743-471aa088-4f87-11e8-95cd-da9b85b60a5d.JPG" alt="window image" >
 <br><br>
 <h4>steps to use are basic : Just run the main.py file and the application starts. From then ,it will pop up after each intervals with a purpose to embellish your Language.
